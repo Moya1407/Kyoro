@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Blinky.cs" />
+     <Compile Include="Assets\Scripts\Generador.cs" />
+     <Compile Include="Assets\Scripts\Ojo.cs" />
      <Compile Include="Assets\Scripts\Panel.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
